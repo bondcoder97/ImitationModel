@@ -10,7 +10,7 @@ Q-schema for working modelling process and class hierarchy making.
 <img src="https://i.ibb.co/J5jMm76/245.png">
 
 Class hierarchy<br/>
-<img src="https://i.ibb.co/J5jMm76/245.png">
+<img src="https://i.ibb.co/LPTyZqc/246.png">
 
 
 
